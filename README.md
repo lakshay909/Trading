@@ -16,7 +16,13 @@ This is basically a software which is related to somewhere like algo trading sof
 ## LIBRARIES REQUIRED
 1. BeautifulSoup
 2. Selenium
-### Library available for web scraping
+## Web Scraping
+Getting live data from a website.
+### Different ways for web scraping
+1. Off-the-shelf web scrapers (including low/no code web scrapers)
+2. Cloud web scrapers
+3. Browser extensions web scrapers
+### Off-the-shelf web scrapers
 1. Beautiful Soup.
 2. Requests.
 3. Scrapy.
@@ -25,6 +31,27 @@ This is basically a software which is related to somewhere like algo trading sof
 6. Lxml.
 7. Urllib3.
 8. MechanicalSoup.
+### Cloud web scrapers
+1. Scrapestack
+2. Bright Data
+3. Oxylabs
+4. Abstract API
+5. ScraperAPI
+6. ScrapingBee
+7. Geekflare
+8. Apify
+9. Web Scraper
+10. Mozenda
+11. Octoparse
+12. ParseHub
+13. Diffbot
+### Browser extensions web scrapers
+1. Instant Data Scraper
+2. Web Scraper
+3. Data Miner
+4. Scraper
+5. Agenty
+6. Simplescraper
 ## HARDWARE REQUIRED
 ## SOFTWARE REQUIRED
 ## PYTHON MODULE REQUIRED
