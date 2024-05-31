@@ -26,13 +26,5 @@ To parse a document, pass it into the BeautifulSoup constructor. You can pass in
 html5lib is very slow but python dependent.
 lxml’s HTML parser & lxml’s XML parser both are very fast but external c dependent.
 If you can, I recommend you install and use lxml for speed. If you’re using a version of Python 2 earlier than 2.7.3, or a version of Python 3 earlier than 3.2.2, it’s essential that you install lxml or html5lib–Python’s built-in HTML parser is just not very good in older versions.
-## Web Scraping
-Getting live data from a website.
-## HARDWARE REQUIRED
-## SOFTWARE REQUIRED
-## PYTHON MODULE REQUIRED
-## SOURCE CODE
-## what required
-1. header for NSE to respond
-2. 
+
 
